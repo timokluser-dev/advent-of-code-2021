@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timokluser-dev/advent-of-code-2021.git"
+  },
+  "keywords": [],
+  "author": "timokluser-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timokluser-dev/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/timokluser-dev/advent-of-code-2021#readme",
+  "devDependencies": {
+    "prettier-airbnb-config": "1.0.0"
+  }
+}
